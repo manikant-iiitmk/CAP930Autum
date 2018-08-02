@@ -1,0 +1,5 @@
+Hi , 
+
+In this course you will learn about Python for Data Science 
+
+This is class dedicated for github
